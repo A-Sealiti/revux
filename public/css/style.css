@@ -1,0 +1,75 @@
+.custom-navbar {
+    background-color: #00757f;
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    margin-right: 30px;
+    border: none;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #b0e0e6;
+}
+
+.navbar .bi-star-fill {
+    color: gold;
+    margin-right: 5px;
+}
+
+
+.second-navbar .nav-link {
+    color: black;
+    text-decoration: none;
+    border: none;
+    box-shadow: none;
+}
+
+.second-navbar  .nav-link:hover {
+    text-decoration: none;
+    color: #00757f;
+}
+.footer {
+    background-color: #00757f;
+    color: white;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+    color: lightblue;
+}
+.navbar-brand img {
+    height: 80px;
+}
+.nav-link .bi-star-fill,
+.nav-link .bi-star-half {
+    color: gold;
+}
+.no-caret::after {
+    display: none !important;
+}
+
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
+    .card-title {
+        min-height: 60px;
+    }
+
+ .button {
+    background-color: #00757f;
+    color: white;
+}
+.btn-custom {
+    background-color: #00757f;
+    color: white;
+}
+.badge{
+    background-color: #7c211a;
+}
